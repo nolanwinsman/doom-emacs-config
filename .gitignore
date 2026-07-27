@@ -1,0 +1,15 @@
+# Doom/Emacs build artifacts and caches
+.local/
+.cache/
+*.elc
+auto-save-list/
+transient/
+eln-cache/
+
+# Editor cruft
+*~
+\#*\#
+.\#*
+
+# OS cruft
+.DS_Store
